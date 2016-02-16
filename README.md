@@ -1,6 +1,8 @@
 DocTree
 =======
 
+It's a tree of JSON documents!  Isn't that just spiffy?!
+
 This needs the following gems:
 
 	sequel
